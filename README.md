@@ -73,3 +73,6 @@ The objective of the task is to develop a machine learning model that will accur
 2. Place `IRIS.csv` and `iris_classification.py` in the same folder.
 3. Install the required packages:
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ef32048b-39d4-4c02-a0e1-f098903bbdd0)
